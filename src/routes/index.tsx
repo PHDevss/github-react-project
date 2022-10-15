@@ -5,8 +5,8 @@ import Repository from "../pages/Repository";
 
 const Ways = () => (
     <Routes>
-        <Route path="/github-react-project/" element={<Dashboard />}/>
-        <Route path="/github-react-project/repositories/:owner/:repository"  element={<Repository />}/>
+        <Route path="/" element={<Dashboard />}/>
+        <Route path="/repositories/:owner/:repository"  element={<Repository />}/>
     </Routes>
 )
 
