@@ -311,4 +311,4 @@ Error generating stack: `+i.message+`
     button {
         cursor: pointer;
     }
-`,s1=()=>ce(ji,{children:[$(Py,{children:$(o1,{})}),$(l1,{})]});jl.createRoot(document.getElementById("root")).render($(xt.StrictMode,{children:$(s1,{})}));
+`,s1=()=>ce(ji,{children:[$(Py,{basename:"/github-react-project/",children:$(o1,{})}),$(l1,{})]});jl.createRoot(document.getElementById("root")).render($(xt.StrictMode,{children:$(s1,{})}));
