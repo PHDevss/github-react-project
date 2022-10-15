@@ -4,7 +4,7 @@ import GlobalStyle from './styles/global'
 
 const App = () => (
     <>
-        <BrowserRouter>
+        <BrowserRouter basename='/github-react-project/'>
             <Ways />
         </BrowserRouter>
         <GlobalStyle />
