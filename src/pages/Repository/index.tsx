@@ -70,7 +70,7 @@ const Repository = () => {
         <>
             <Header>
                 <img src={logoImg} alt="Github Explorer" />
-                <Link to="/">
+                <Link to="/github-react-project/">
                     <FiChevronLeft size={16} />
                     Voltar
                 </Link>
